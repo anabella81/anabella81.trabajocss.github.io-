@@ -1,0 +1,125 @@
+
+
+body {
+    wigth: 200px;
+    heigth: 0px;
+}
+
+nav {
+    width: 3000px;
+    background-color: rgb(18, 65, 65);
+    height: 60px;
+
+}
+
+
+
+footer div {
+    width: 10px;
+    height: 50px;
+
+}
+
+pcard text {
+
+    background-color: darkslategrey;
+}
+
+a {
+    backgraunt-color: yellow;
+}
+
+#ada {
+    background-color: grey;
+}
+
+#ada2 {
+    color: black;
+    background-color: red;
+}
+
+#bill1 {
+
+    background-color: rgb(236, 236, 10);
+
+}
+
+.card-group {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    color: white
+}
+
+.card-img-overlay {
+    text-align: center;
+    color: white;
+    left: 50%;
+    top: 50%;
+
+
+}
+
+.btn {
+    color: white;
+    border-color: aliceblue;
+
+}
+
+h6 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.playa {
+    max-width: 900x;
+    background-color: rgb(37, 39, 39);
+    color: white;
+    border: width 2px;
+}
+
+.footeruno {
+
+    text-align: center;
+}
+
+.orador {
+    text-align: center;
+}
+
+.anotate {
+    text-align: center;
+}
+
+.btn {
+    background-color: green;
+
+}
+
+.container-footer {
+
+
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.pie {
+    width: 3000px;
+    background-color: rgb(18, 65, 65);
+    height: 60px;
+    text-align: start;
+    color: blanchedalmond;
+    background-color: rgb(28, 51, 51);
+}
+
+.navbar-0 {
+    background-color: rgb(17, 236, 17);
+    text-align: center;
+}
